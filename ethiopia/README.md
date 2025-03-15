@@ -1,8 +1,4 @@
-# 3D Rotation with Angularjs & scss
-Build a 3D Rotation page with AngularJS and SCSS
-
-
-# Project: Ethiopia
+# Ethiopia
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
 
